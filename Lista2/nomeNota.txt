@@ -1,0 +1,6 @@
+Rafael 6.5
+Pedro 6.0
+Vitor 8.9
+Danilo 7.4
+Daniel 3.4
+Fernardo 5.5
